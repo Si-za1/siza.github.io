@@ -1,8 +1,8 @@
 ---
 share: true
-title: "My learnings"
+title: "Mylearnings"
 publish: true
 draft: false
-categories: ["My Learnings"]
+categories: ["MyLearnings"]
 ---
 this is anime list

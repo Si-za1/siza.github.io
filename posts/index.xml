@@ -7,14 +7,35 @@
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
     <copyright>Siza 🇳🇵</copyright>
-    <lastBuildDate>Mon, 24 Feb 2025 21:18:06 +0545</lastBuildDate>
     <atom:link href="https://si-za1.github.io/siza.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New</title>
-      <link>https://si-za1.github.io/siza.github.io/posts/new/</link>
-      <pubDate>Mon, 24 Feb 2025 21:18:06 +0545</pubDate>
-      <guid>https://si-za1.github.io/siza.github.io/posts/new/</guid>
-      <description>&lt;p&gt;something new&lt;/p&gt;</description>
+      <title>Anime Recommendations and Personal reviews here</title>
+      <link>https://si-za1.github.io/siza.github.io/posts/my-learnings/my-anime-watchlists/jan-feb--anime-watching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://si-za1.github.io/siza.github.io/posts/my-learnings/my-anime-watchlists/jan-feb--anime-watching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DSA for Data Engineers here</title>
+      <link>https://si-za1.github.io/siza.github.io/posts/my-learnings/python-for_dataengineers/dsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://si-za1.github.io/siza.github.io/posts/my-learnings/python-for_dataengineers/dsa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning Pandas</title>
+      <link>https://si-za1.github.io/siza.github.io/posts/my-learnings/sql/pandas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://si-za1.github.io/siza.github.io/posts/my-learnings/sql/pandas/</guid>
+      <description>&lt;p&gt;This is the section where we will talk about the Pandas&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learning SQL from scratch</title>
+      <link>https://si-za1.github.io/siza.github.io/posts/my-learnings/sql/basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://si-za1.github.io/siza.github.io/posts/my-learnings/sql/basics/</guid>
+      <description>&lt;p&gt;What will be covered in this section:
+and it is done so i hope it works&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

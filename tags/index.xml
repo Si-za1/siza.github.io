@@ -8,5 +8,19 @@
     <language>en</language>
     <copyright>Siza 🇳🇵</copyright>
     <atom:link href="https://si-za1.github.io/siza.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Published</title>
+      <link>https://si-za1.github.io/siza.github.io/tags/published/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://si-za1.github.io/siza.github.io/tags/published/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shared</title>
+      <link>https://si-za1.github.io/siza.github.io/tags/shared/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://si-za1.github.io/siza.github.io/tags/shared/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
